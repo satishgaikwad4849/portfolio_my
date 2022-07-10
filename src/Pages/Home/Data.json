@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Cowork App",
+    "desc": "This is a coworking space management application developed for both web and mobile platforms.Which includes user management, desk management, online invoicing,real-time booking of conference rooms and meeting rooms, event management etc."
+  },
+  {
+    "name": "Crypvendor",
+    "desc": "This is a cryptoPayment gateway web application.­"
+  },
+  {
+    "name": "Dexdrone",
+    "desc": "This is an admin Panel web application of dexdrone. Tools VS Code Atom• Dexdrone is a digital currency investment platform which turns digital currency into online investment."
+  },
+  {
+    "name": "IBM RCP",
+    "desc": "RCP (Risk-based Continuous Patch ) is a management system and framework to deliver security patching services. It tracks security vulnerabilities"
+  }
+]

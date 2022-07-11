@@ -1,6 +1,5 @@
 import React from "react";
 import "./Footer.css";
-import { HeartFilled } from "@ant-design/icons";
 import github from "../../images/github.gif";
 import linkedin from "../../images/linkedin.gif";
 import Satish_logo from '../../images/satish_logo.jpg';

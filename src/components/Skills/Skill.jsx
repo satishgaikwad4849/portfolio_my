@@ -9,8 +9,7 @@ import {
   SiRedux,
   SiNpm,
   SiNetlify,
-  SiStyledComponents,
-  SiIonic,
+  SiStyledComponents
 } from "react-icons/si";
 
 const Skill = () => {

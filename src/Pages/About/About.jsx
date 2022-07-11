@@ -17,13 +17,13 @@ const About = () => {
       <div id="desc">
         <h1>About Me</h1>
         {desc.map((des, id) => (
-          <h3 key={id} style={{ fontWeight: 700 }}>
+          <h3 key={id} style={{ fontWeight: 500 }}>
             {des}
           </h3>
         ))}
         <h2 style={{ fontWeight: 700 }}>My Expertise</h2>
 
-        <h3 style={{ fontWeight: 700 }}>
+        <h3 style={{ fontWeight: 500 }}>
           Frontend Engineer with primary focus on React and JavaScript:{" "}
           <a href={Resume} target="#">
             View Resume

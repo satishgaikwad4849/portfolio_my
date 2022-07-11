@@ -47,10 +47,10 @@ const Skill = () => {
       name: "REDUX",
       icon: <SiRedux />,
     },
-    {
-      name: "IONIC REACT",
-      icon: <SiIonic />,
-    },
+    // {
+    //   name: "IONIC REACT",
+    //   icon: <SiIonic />,
+    // },
     {
       name: "GITHUB",
       icon: <AiFillGithub />,

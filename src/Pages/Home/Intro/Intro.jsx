@@ -7,10 +7,10 @@ const Intro = () => {
   return (
     <div id="intro">
       <div id="info">
-        <h3 id="hi">Hello! I'm</h3>
+        <div id="hi">Hello! I'm</div>
         <h1 id="name">Satish Gaikwad</h1>
         <h4 id="designation">I'm a Frontend Developer</h4>
-        <h5 id="designation_desc">Focused on building products that will make people's lives better. I love to learn new things and I am always open to learn new technologies.</h5>
+        <div id="designation_desc">Focused on building products that will make people's lives better. I love to learn new things and I am always open to learn new technologies.</div>
 
 
         <div className="underline"></div>

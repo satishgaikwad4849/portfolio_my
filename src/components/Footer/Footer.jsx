@@ -31,7 +31,7 @@ const Footer = () => {
               <img className="list" src={github} alt="" />
             </li>
           </a>
-          <a href="mailto:sshivamprakashh301@gmail.com" target="#">
+          <a href="mailto:satishgaikwad4849@gmail.com" target="#">
             <li>
               <img
                 style={{ background: "white" }}
@@ -42,14 +42,14 @@ const Footer = () => {
             </li>
           </a>
         </ul>
-        <p className="intro">
+        {/* <p className="intro">
           <a href="https://github.com/satishgaikwad4849/portfolio_my" target="#">
             Coded&nbsp;
           </a>{" "}
           With &nbsp;
           <HeartFilled style={{ color: "red" }} />
-          &nbsp; By PRAKASH
-        </p>
+          &nbsp; By SATISH
+        </p> */}
       </div>
     </footer>
   );
